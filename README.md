@@ -5,7 +5,7 @@ Personal developer portfolio of Prasad Shinde — full-stack web applications, A
 Personal portfolio website showcasing my projects, full-stack and AI/ML skills, internship experience, and contact details.
 
 ## Live Demo
-- **Website:** `file:///D:/Portfolio/personal-dashboard/index.html#about
+- **Website:** `[file:///D:/Portfolio/personal-dashboard/index.html#about](https://prasad2809.github.io/Portfolio/)
 - **GitHub:** [github.com/Prasad2809](https://github.com/Prasad2809)
 - **LinkedIn:** [linkedin.com/in/prasad-shinde-b0167328b](https://www.linkedin.com/in/prasad-shinde-b0167328b/)
 
